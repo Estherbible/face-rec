@@ -1,0 +1,16 @@
+.heading{
+    font-size: 25px;
+    width: 80%;
+}
+body{
+    background-color: lightblue;
+    color: white;
+}
+.objectNames, #object, #accurecy{
+    color: lightcoral;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed lightseagreen;
+}
